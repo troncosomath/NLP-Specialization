@@ -1,5 +1,5 @@
 # Deeplearning.ai
-This is my work on the NLP Specialization courses  their material is outstanding, very clear and fun. The present repository is meant as a personal reference. 
+This is my work on the NLP Specialization courses https://www.coursera.org/learn/classification-vector-spaces-in-nlp their material is outstanding, very clear and fun. The present repository is meant as a personal reference. 
 
 # Table of content
 ## Classification Vector Spaces In NLP
