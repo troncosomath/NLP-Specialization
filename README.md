@@ -14,7 +14,10 @@ For more information see https://www.coursera.org/learn/classification-vector-sp
 ## Course 2: Natural Language Processing with Probabilistic Models
 
 The course is divided into 4 weeks. Each week focus on a different core topic which are listed below 
-- Sentiment 
+- Autocorrect
+- Part of Speech Tagging and Hidden Markov Models
+- Autocomplete and Language Models
+- Word Embeddings with Neural Networks
 
 For more information see https://www.coursera.org/learn/probabilistic-models-in-nlp
 
