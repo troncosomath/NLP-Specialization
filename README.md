@@ -21,5 +21,14 @@ The course is divided into 4 weeks. Each week focus on a different core topic wh
 
 For more information see https://www.coursera.org/learn/probabilistic-models-in-nlp
 
+## Course 3: Natural Language Processing with Sequence Models
+
+The course is divided into 3 weeks. Each week focus on a different core topic which are listed below 
+- Classification using Deep Neural Networks and N-grams vs Sequence Models
+- LSTMs and Named Entity Recognition
+- Siamese Networks
+
+For more information see https://www.coursera.org/learn/sequence-models-in-nlp
+
 # Disclaimer
 I recognize the time people spend on building intuition, understanding new concepts and hand-on material. The material uploaded here are only for reference.
